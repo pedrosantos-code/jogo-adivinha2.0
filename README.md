@@ -1,3 +1,3 @@
 # Jogo-adivinha2.0
 
-## Projeto utilizado nos cursos de lógica de programaação a Alura!
+## Projeto utilizado nos cursos de lógica de programação da Alura!
